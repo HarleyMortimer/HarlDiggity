@@ -1,0 +1,21 @@
+{
+  "name": "HarlDiggity",
+  "version": "1.0.0",
+  "description": "New Respository, New Me.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon ./src/app.js", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarleyMortimer/HarlDiggity.git"
+  },
+  "keywords": [],
+  "author": "Harley Mortimer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarleyMortimer/HarlDiggity/issues"
+  },
+  "homepage": "https://github.com/HarleyMortimer/HarlDiggity#readme"
+}
